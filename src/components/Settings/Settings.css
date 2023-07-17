@@ -9,3 +9,10 @@
     border-radius: 20px;
     position: absolute;
 }
+
+.settings-container-header {
+    position: relative;
+    top: -30vh;
+    left: calc(25vw - 3rem);
+    color: #707985;
+}
